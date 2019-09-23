@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">DiscoSaster</string>
+    <string name="disaster_name">Nama Bencana</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="dis_name">
+        <item>Gempa Bumi</item>
+        <item>Banjir</item>
+        <item>Tanah Longsor</item>
+        <item>Tsunami</item>
+        <item>Letusan Gunung Berapi</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>
+            Gempa bumi adalah getaran atau guncangan yang terjadi di permukaan bumi yang disebabkan oleh tumbukan antar lempeng bumi, patahan aktif, akitivitas gunung api atau runtuhan batuan.
+Gempa bumi aceh pada 26 Desember 2004 yang memakan banyak korban jiwa.Gempa berkekuatan 9,1 hingga 9,3 Skala Richter dari dasar laut sebelah Barat Aceh, setelahnya diikuti dengan tsunami yang memporak-pondakan Aceh dan sekitarnya.
+        </item>
+        <item>
+            Banjir adalah peristiwa atau keadaan dimana terendamnya suatu daerah atau daratan karena volume air yang meningkat.
+Waduh, kalau banjir pasti udah pada tahu kan? DKI Jakarta merupakan salah satu kota yang menjadi langganan banjir hampir setiap tahunnya.
+        </item>
+        <item>
+            Tanah longsor merupakan salah satu jenis gerakan massa tanah atau batuan, ataupun percampuran keduanya, menuruni atau keluar lereng akibat terganggunya kestabilan tanah atau batuan penyusun lereng.
+Pada tanggal 31 Desember 2018 lalu terjadi longsor di Kampung Cigarehong, Dusun Cimapag, yang berada di Sirnaresmi, Cisolok, Kabupaten Sukabumi, Jawa Barat
+        </item>
+        <item>
+            Tsunami berasal dari bahasa Jepang yang berarti gelombang ombak lautan ("tsu" berarti lautan, "nami" berarti gelombang ombak). Tsunami adalah serangkaian gelombang ombak laut raksasa yang timbul karena adanya pergeseran di dasar laut akibat gempa bumi.
+Tsunami yang terjadi pada bulan September ini menjadi bencana alam yang sangat mematikan yang menelan korban jiwa sebanyak 2.100 orang meninggal, dan ribuan bangunan telah rusak bahkan hancur.
+Pada tanggal 22 Desember 2018, terjadi peristiwa tsunami yang disebabkan oleh letusan Anak Krakatau di Selat Sunda dan menghantam daerah pesisir Banten dan Lampung, Indonesia.
+        </item>
+        <item>
+            Letusan gunung api merupakan bagian dari aktivitas vulkanik yang dikenal dengan istilah "erupsi". Bahaya letusan gunung api dapat berupa awan panas, lontaran material (pijar), hujan abu lebat, lava, gas racun, tsunami dan banjir lahar.
+Letusan Merapi 2010 adalah rangkaian peristiwa gunung berapi yang terjadi di Indonesia.
+Pada akhir September 2010 silam, Gunung Merapi di Yogyakarta mulai melakukan aktivitas seismik dan menyebabkan letusan gunung berapi pada tanggal 26 Oktober 2010.
+Akibat letusan tersebut sedikitnya 353 orang tewas, termasuk Mbah Maridjan
+        </item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/earthquake</item>
+        <item>@drawable/flood</item>
+        <item>@drawable/landslide</item>
+        <item>@drawable/tsunami</item>
+        <item>@drawable/volcano</item>
+    </array>
+
+</resources>
